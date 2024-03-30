@@ -4,6 +4,10 @@ For example, a threadcount of `K15R3K5DR3` says: weave 15 units of K, 3 units of
 
 It also allows to choose between symmetrical (patterns are mirrored) and asymmetrical (patterns are repeated) setts. 
 
-![Asymmetrical setts](tartan_export_1.png)
+The produced bitmaps from this example are below. 
 
 ![Symmetrical setts](tartan_export_2.png)
+*K15R3K5DR3 using symmetrical setts.*
+
+![Asymmetrical setts](tartan_export_1.png)
+*K15R3K5DR3 using asymmetrical setts.*
