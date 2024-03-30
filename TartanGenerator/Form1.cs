@@ -128,7 +128,7 @@ namespace TartanGenerator
         {
             solidColours.Clear();
             patternColours.Clear();
-            string pattern = @"(?<colour>\w+)=(?<rgb_code>\S{6})\w+";
+            string pattern = @"(?<colour>\w+)=(?<rgb_code>\S{6})\w*";
             Regex regex = new Regex(pattern);
             Match match = regex.Match(textBox2.Text);
 
